@@ -1,0 +1,7 @@
+.idea
+db.json
+package.json
+.deploy*/
+node_modules/
+.npmignore
+public/
