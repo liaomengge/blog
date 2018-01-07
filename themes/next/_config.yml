@@ -403,10 +403,10 @@ valine:
 # You can get your Github ID from https://api.github.com/users/<Github username>
 gitment:
   enable: true
-  githubID: liaomengge
-  repo: liaomengge.github.io
-  ClientID: f09f569d7cbf8cc892ab
-  ClientSecret: ea5f4f734248de1587e7321e1204ad50da2900d7
+  github_user: liaomengge
+  github_repo: liaomengge.github.io
+  client_id: f09f569d7cbf8cc892ab
+  client_secret: ea5f4f734248de1587e7321e1204ad50da2900d7
   lazy: true
 
 # Baidu Share
